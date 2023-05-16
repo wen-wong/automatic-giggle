@@ -11,3 +11,7 @@ chmod u+x ${path}/vim_setup.sh
 chmod u+x ${path}/git_setup.sh
 ./${path}/git_setup.sh
 
+# Node Setup
+chmod u+x ${path}/node_setup.sh
+./${path}/node_setup.sh
+
